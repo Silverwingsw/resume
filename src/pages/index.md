@@ -10,7 +10,7 @@ pdfLink: Carl_Resume.pdf
 **Web3 Full Stack Developer**
 
 ShenZhen, China | silverwingsdw@gmail.com 
-
+ 
 Web3 developer with extensive experience in blockchain technologies, smart contract development, and full-stack engineering. Skilled in designing secure and efficient DeFi protocols, as well as integrating scalable web applications with blockchain systems. Adept at solving complex challenges and delivering robust solutions.
 
 ## Work Experience
